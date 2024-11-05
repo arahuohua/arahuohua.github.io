@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://arahuohua.github.io/IuH/sitemap_index.txt
+Sitemap: https://arahuohua.github.io/Kvu/sitemap_index.txt
+Sitemap: https://arahuohua.github.io/WEO/sitemap_index.txt
+Sitemap: https://arahuohua.github.io/mYL/sitemap_index.txt
